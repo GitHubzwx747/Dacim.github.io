@@ -37,19 +37,6 @@ I have published more than 10 papers at the top international AI conferences or 
 
 ## Deep Generative Modeling
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/toflow.png' alt="sym" width="100%"></div>
-<div class='paper-box-text' markdown="1">
-
-**To-Flow: Efficient Continuous Normalizing Flows with Temporal Optimization Adjoint with Moving Speed**, Shian Du#, Yihong Luo#, **`Wei Chen`**#, Jian Xu, Delu Zeng*
-
-**CVPR 2022** \| [**Paper**](https://arxiv.org/abs/2203.10335) \| [**Code**](https://github.com/ShianDu/TO-FLOW)
-
-- Continuous normalizing flows (CNFs) via neural ODEs are costly to train on large datasets; To-Flow proposes *temporal optimization* by alternately optimizing network weights and evolutionary time (coordinate descent) with temporal regularization for stability.
-- **Key result**: accelerates flow training by about 20% while maintaining performance.
-</div>
-</div>
-
-
 <div class='paper-box'><div class='paper-box-image'><img src='images/evodiff.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
@@ -59,6 +46,19 @@ I have published more than 10 papers at the top international AI conferences or 
 
 - Introduces an information-theoretic view: successful denoising reduces conditional entropy in reverse transitions.
 - Proposes EVODiff, a reference-free diffusion inference framework that optimizes conditional variance to reduce transition and reconstruction errors, improving sample quality and reducing inference cost.
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><img src='images/eiw_flow.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+[**Entropy-informed weighting channel normalizing flow for deep generative models**](https://doi.org/10.1016/j.patcog.2025.112442), **`Wei Chen`**#, Shian Du#, Shigui Li#, Delu Zeng*, John Paisley
+
+**Pattern Recognition 2025** \| [**Paper**](https://doi.org/10.1016/j.patcog.2025.112442) \| [**Code**](https://github.com/ShianDu/EIW-Flow)
+
+- Proposes Entropy-Informed Weighting Channel Normalizing Flow (EIW-Flow), enhancing multi-scale normalizing flows with a regularized, feature-dependent operation that generates channel-wise weights and shuffles latent variables before splitting.
+- Empirically achieves state-of-the-art density estimation and competitive sample quality with minimal computational overhead on multiple benchmarks.
 </div>
 </div>
 
@@ -77,15 +77,15 @@ I have published more than 10 papers at the top international AI conferences or 
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/eiw_flow.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='images/toflow.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[**Entropy-informed weighting channel normalizing flow for deep generative models**](https://doi.org/10.1016/j.patcog.2025.112442), **`Wei Chen`**#, Shian Du#, Shigui Li#, Delu Zeng*, John Paisley
+**To-Flow: Efficient Continuous Normalizing Flows with Temporal Optimization Adjoint with Moving Speed**, Shian Du#, Yihong Luo#, **`Wei Chen`**#, Jian Xu, Delu Zeng*
 
-**Pattern Recognition 2025** \| [**Paper**](https://doi.org/10.1016/j.patcog.2025.112442) \| [**Code**](https://github.com/ShianDu/EIW-Flow)
+**CVPR 2022** \| [**Paper**](https://arxiv.org/abs/2203.10335) \| [**Code**](https://github.com/ShianDu/TO-FLOW)
 
-- Proposes Entropy-Informed Weighting Channel Normalizing Flow (EIW-Flow), enhancing multi-scale normalizing flows with a regularized, feature-dependent operation that generates channel-wise weights and shuffles latent variables before splitting.
-- Empirically achieves state-of-the-art density estimation and competitive sample quality with minimal computational overhead on multiple benchmarks.
+- Continuous normalizing flows (CNFs) via neural ODEs are costly to train on large datasets; To-Flow proposes *temporal optimization* by alternately optimizing network weights and evolutionary time (coordinate descent) with temporal regularization for stability.
+- **Key result**: accelerates flow training by about 20% while maintaining performance.
 </div>
 </div>
 
