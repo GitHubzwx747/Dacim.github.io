@@ -52,7 +52,7 @@ I have published more than 10 papers at the top international AI conferences or 
 
 [**EVODiff: Entropy-aware Variance Optimized Diffusion Inference**](https://openreview.net/forum?id=rKASv92Myl), Shigui Li, **`Wei Chen`**, Delu Zeng*
 
-**NeurIPS 2025** \| [**Code**](https://github.com/ShiguiLi/EVODiff)
+**NeurIPS 2025** \| [**Paper**](https://openreview.net/pdf?id=rKASv92Myl) \| [**Code**](https://github.com/ShiguiLi/EVODiff)
 
 - Introduces an information-theoretic view: successful denoising reduces conditional entropy in reverse transitions.
 - Proposes EVODiff, a reference-free diffusion inference framework that optimizes conditional variance to reduce transition and reconstruction errors, improving sample quality and reducing inference cost.
