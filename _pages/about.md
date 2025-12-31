@@ -107,9 +107,9 @@ I have published more than 10 papers at the top international AI conferences or 
 <div class='paper-box'><div class='paper-box-image'><img src='images/deepara.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-**DeepAR-Attention probabilistic prediction for stock price series**, Jiacheng Li, **`Wei Chen`**, Zhiheng Zhou, Junmei Yang, Delu Zeng*
+[**DeepAR-Attention probabilistic prediction for stock price series**](https://doi.org/10.1007/s00521-024-09916-3), Jiacheng Li, **`Wei Chen`**, Zhiheng Zhou, Junmei Yang, Delu Zeng*
 
-**Neural Computing and Applications 2024**
+**Neural Computing and Applications 2024** \| [**Paper**](https://doi.org/10.1007/s00521-024-09916-3)
 
 - Proposes a DeepAR-Attention probabilistic forecasting approach for stock price series.
 </div>
@@ -119,9 +119,9 @@ I have published more than 10 papers at the top international AI conferences or 
 <div class='paper-box'><div class='paper-box-image'><img src='images/ODE_LSTM.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-**Neural ordinary differential equation networks for fintech applications using Internet of Things**, Jiacheng Li, **`Wei Chen`**, Yican Liu, Junmei Yang, Delu Zeng*, Zhiheng Zhou
+[**Neural ordinary differential equation networks for fintech applications using Internet of Things**](https://doi.org/10.1109/JIOT.2024.3376748), Jiacheng Li, **`Wei Chen`**, Yican Liu, Junmei Yang, Delu Zeng*, Zhiheng Zhou
 
-**IEEE Internet of Things Journal 2024**
+**IEEE Internet of Things Journal 2024** \| [**Paper**](https://doi.org/10.1109/JIOT.2024.3376748) 
 
 - Develops neural ODE network approaches for fintech applications in IoT settings.
 </div>
