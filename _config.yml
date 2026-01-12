@@ -10,7 +10,7 @@ locale                   : "zh-CN"
 title                    : "Delu Zeng (曾德炉)"
 title_separator          : "-"
 description              : "Ph.D. candidate at SCUT. Focusing on probabilist modeling & inference."
-repository               : "hoemr/hoemr.github.io"
+repository               : "GitHubzwx747/Dacim.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -29,7 +29,7 @@ author:
   location         : "Guangzhou, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=r5fgeWQAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=08RCdoIAAAAJ"
   email            : "weichen_work@126.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
