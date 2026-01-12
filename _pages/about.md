@@ -57,7 +57,7 @@ Feel free to reach me at weichen_work@126.com! 😃
 
 [**Entropy-informed weighting channel normalizing flow for deep generative models**](https://doi.org/10.1016/j.patcog.2025.112442), **`Wei Chen`**#, Shian Du#, Shigui Li#, Delu Zeng*, John Paisley
 
-**Pattern Recognition 2025** \| [**Paper**](https://doi.org/10.1016/j.patcog.2025.112442) \| [**Code**](https://github.com/ShianDu/EIW-Flow)
+**Pattern Recognition (PR) 2025** \| [**Paper**](https://doi.org/10.1016/j.patcog.2025.112442) \| [**Code**](https://github.com/ShianDu/EIW-Flow)
 
 - Proposes Entropy-Informed Weighting Channel Normalizing Flow (EIW-Flow), enhancing multi-scale normalizing flows with a regularized, feature-dependent operation that generates channel-wise weights and shuffles latent variables before splitting.
 - Empirically achieves state-of-the-art density estimation and competitive sample quality with minimal computational overhead on multiple benchmarks.
@@ -126,7 +126,7 @@ Feel free to reach me at weichen_work@126.com! 😃
 
 [**Neural ordinary differential equation networks for fintech applications using Internet of Things**](https://doi.org/10.1109/JIOT.2024.3376748), Jiacheng Li, **`Wei Chen`**, Yican Liu, Junmei Yang, Delu Zeng*, Zhiheng Zhou
 
-**IEEE Internet of Things Journal 2024** \| [**Paper**](https://doi.org/10.1109/JIOT.2024.3376748) 
+**IEEE Internet of Things Journal (IoTJ) 2024** \| [**Paper**](https://doi.org/10.1109/JIOT.2024.3376748) 
 
 - Develops neural ODE network approaches for fintech applications in IoT settings.
 </div>
@@ -138,7 +138,7 @@ Feel free to reach me at weichen_work@126.com! 😃
 
 [**Integrating Ordinary Differential Equations with Sparse Attention for Power Load Forecasting**](https://doi.org/10.1109/TIM.2025.3581667), Jiacheng Li, **`Wei Chen`**, Yican Liu, Junmei Yang, Zhiheng Zhou, Delu Zeng*
 
-**IEEE Transactions on Instrumentation and Measurement 2025** \| [**Paper**](https://doi.org/10.1109/TIM.2025.3581667)
+**IEEE Transactions on Instrumentation and Measurement (T-IM) 2025** \| [**Paper**](https://doi.org/10.1109/TIM.2025.3581667)
 
 - Proposes EvolvInformer: integrates an ODE solver into a ProbSparse self-attention decoder to model continuous-time hidden state dynamics for nonstationary long-sequence load forecasting.
 - Reports a 29.7% MSE reduction versus state-of-the-art baselines while preserving logarithmic memory complexity.
@@ -151,7 +151,7 @@ Feel free to reach me at weichen_work@126.com! 😃
 
 [**Diffinformer: Diffusion Informer model for long sequence time-series forecasting**](https://doi.org/10.1016/j.eswa.2025.129944), Jiacheng Li, **`Wei Chen`**, Yican Liu, Junmei Yang, Zhiheng Zhou, Delu Zeng*
 
-**Expert Systems with Applications 2025** \| [**Paper**](https://doi.org/10.1016/j.eswa.2025.129944)
+**Expert Systems with Applications (ESWA) 2025** \| [**Paper**](https://doi.org/10.1016/j.eswa.2025.129944)
 
 - Proposes Diffinformer: combines conditional diffusion models with Informer’s ProbSparse attention distilling mechanism, incorporating diffusion outputs into the decoder to better capture long-range dependencies.
 - Demonstrates consistent improvements over corresponding baselines across five large-scale datasets under limited computational resources.
