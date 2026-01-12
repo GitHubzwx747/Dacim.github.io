@@ -17,12 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I received my B.S. degree in Statistics from Wuhan University of Technology (WHUT, 武汉理工大学). Currently, I am a Ph.D. candidate in Computational Mathematics at the School of Mathematics, South China University of Technology (SCUT, 华南理工大学), advised by Prof. [Delu Zeng](https://scholar.google.com.hk/citations?user=08RCdoIAAAAJ&hl=zh-CN). I also collaborate with [John Paisley (Columbia University)](https://scholar.google.com.hk/citations?user=r31_fYQAAAAJ), [Junmei Yang (SCUT)](https://dblp.uni-trier.de/pid/157/9330.html), [Qibin Zhao (RIKEN-AIP)](https://qibinzhao.github.io/), [Jiacheng Li (SCUT)](https://openreview.net/profile?id=~Jiacheng_Li9), [Shigui Li (SCUT)](https://scholar.google.com.hk/citations?user=Fm039ikAAAAJ&hl=zh-CN), [Jian Xu (SCUT / RIKEN-AIP)](https://xujianscut.github.io/JianXu.github.io/about/), [Shian Du (Tsinghua University)](https://shiandu.github.io/).
+曾德炉，博士，教授，博士生导师/硕士生导师。曾在相关领域发表论文80余篇，包括IEEE等著名会刊，如IEEE Trans. Neural Networks and Learning Systems, IEEE Trans. Image Processing, IEEE Geoscience and Remote Sensing Letters, IEEE Signal Processing Letters ，及ICML，AAAI，IJCAI，ICCV，CVPR，ICASSP等视频处理模式识别顶级会议。主持国家及省部级项目多项：包括国家自然科学基金项目3项，中国博士后基金项目等；参与国家及省部级项目多项等；主持横向项目多项。
 
-My research focuses on `deep generative modeling` and `density ratio estimation`, with particular interests in diffusion models, normalizing flows, and stochastic interpolation. I aim to develop mathematically grounded methods for probabilistic inference.
-I have published more than 10 papers at the top international AI conferences or articles with total <a href='https://scholar.google.com/citations?user=r5fgeWQAAAAJ'>google scholar citations <strong><span id='total_cit'>60+</span></strong></a> (<a href="https://scholar.google.com/citations?user=r5fgeWQAAAAJ"><img src="https://img.shields.io/badge/citations-60-blue?logo=googlescholar&logoColor=green&labelColor=f6f6f6&style=flat" alt="Google Scholar"></a>).
-
-Feel free to reach me at weichen_work@126.com! 😃
+学术义务工作：ACM会员，CCF会员，IEEE会员，参与NSFC评审等；并参与多个国际期刊审稿，包括IEEE TIP，IEEE ITS，IEEE TNNLS，IEEE TII， IEEE TEI，IEEE TMM，IEEE SMCb，Neural Networks，Neurocomputing等。
 
 
 # 🔥 News
