@@ -20,7 +20,31 @@ redirect_from:
 曾德炉，博士，教授，博士生导师/硕士生导师。曾在相关领域发表论文100余篇，包括IEEE等著名会刊，如IEEE Trans. Neural Networks and Learning Systems, IEEE Trans. Image Processing, IEEE Geoscience and Remote Sensing Letters, IEEE Signal Processing Letters ，及ICML，AAAI，IJCAI，ICCV，CVPR，ICASSP等视频处理模式识别顶级会议。主持国家及省部级项目多项：包括国家自然科学基金项目3项，中国博士后基金项目等；参与国家及省部级项目多项等；主持横向项目多项。
 
 学术义务工作：ACM会员，CCF会员，IEEE会员，参与NSFC评审等；并参与多个国际期刊审稿，包括IEEE TIP，IEEE ITS，IEEE TNNLS，IEEE TII， IEEE TEI，IEEE TMM，IEEE SMCb，Neural Networks，Neurocomputing等。
+## 工作经历
 
+- **2022.02 – 至今**　华南理工大学，电子与信息学院，教授  
+- **2018.09 – 2021.01**　华南理工大学，数学学院信息与计算科学系，教授  
+- **2018.11 – 2019.11**　哥伦比亚大学数据科学学院，访问学者（国家公派 CSC）  
+- **2018.08 – 2018.09**　奥卢大学 CMVS，研究科学家（访问学者）  
+- **2017.07 – 2017.09**　哥伦比亚大学数据科学学院，访问学者  
+- **2016.07 – 2018.08**　华南理工大学，数学学院信息与计算科学系，副教授  
+- **2013.04 – 2016.07**　厦门大学，信息科学与技术学院，副教授  
+- **2010.02 – 2013.03**　华南理工大学，电子与信息学院，博士后（2011.09 获副研究员/副高资格）
+
+## 教育经历
+
+- **2005.09 – 2009.12**　华南理工大学，信号与信息处理，博士研究生  
+  （研究方向：迭代学习理论、控制理论、信号与信息处理等）  
+- **2003.09 – 2005.07**　华南理工大学，应用数学，硕士研究生  
+  （研究方向：非线性发展方程及应用）  
+- **2005.07 – 2005.09**　中山大学，全国数学暑期学习班，非学历培训  
+  （学习主题：偏微分方程与微分几何）  
+- **1999.09 – 2003.07**　华南理工大学，数学与应用数学，本科 / 学士
+
+## 研究领域
+
+- **主要领域**：图像处理与模式识别、大数据处理与分析、（统计）机器学习、偏微分方程应用  
+- **其他涉及领域**：工程数学建模、人工智能与感知推理、最优化理论及应用、情感计算、通信／生物医学信息处理、物联网及软件定义网络等
 
 # 🔥 News
 - *2026.1*: Our paper about *Diffusion Bridge Variational Inference for Deep Gaussian Processes* is accepted to International Conference on Learning Representations (ICLR).
