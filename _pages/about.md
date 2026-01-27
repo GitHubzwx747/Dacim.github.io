@@ -46,7 +46,7 @@ redirect_from:
 - **主要领域**：图像处理与模式识别、大数据处理与分析、（统计）机器学习、偏微分方程应用  
 - **其他涉及领域**：工程数学建模、人工智能与感知推理、最优化理论及应用、情感计算、通信／生物医学信息处理、物联网及软件定义网络等
 
-# 🔥 News
+# 最新资讯
 - *2026.1*: Our paper about *Diffusion Bridge Variational Inference for Deep Gaussian Processes* is accepted to International Conference on Learning Representations (ICLR).
 - *2026.1*: Our paper about *Don't Forget Its Variance! The Minimum Path Variance Principle for Accurate and Stable Score-Based Density Ratio* is accepted to  International Conference on Learning Representations (ICLR).
 - *2025.10*: Our paper about *diffusion informer for time series modeling* is accepted to Expert Systems With Applications (ESWA).
@@ -101,6 +101,16 @@ redirect_from:
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><img src='images/placeholder.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+[**Sparse Inducing Points in Deep Gaussian Processes: Enhancing Modeling with Denoising Diffusion Variational Inference**](https://proceedings.mlr.press/v235/xu24af.html), Jian Xu, Delu Zeng, John Paisley
+
+**ICML 2024** \| [**Paper**](https://proceedings.mlr.press/v235/xu24af.html) \| [**Code**](https://github.com/xujianscut/DDVI-DGP)
+
+-
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><img src='images/toflow.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
