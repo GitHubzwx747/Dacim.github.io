@@ -181,16 +181,114 @@ redirect_from:
 </div>
 </div>
 
+- Guo, Pengfei, Lang He, Shuangyin Liu, Delu Zeng, and Hantao Liu. "Underwater Image Quality Assessment: Subjective and Objective Methods." *IEEE Transactions on Multimedia* (2021).
 
+- Bo Pan, Jinxuan Tao, Xianyang Bao, Jie Xiao, Hongsheng Liu, Xiaotong Zhao, and Delu Zeng. "Quantitative study of starch swelling capacity during gelatinization with an efficient automatic segmentation methodology." *Carbohydrate Polymers* 255 (2021): 117372.
 
-# 🎖 Honors and Awards
+- Delu Zeng, Minyu Liao, Mohammad Tavakolian, Yulan Guo, Bolei Zhou, Dewen Hu, Matti Pietikäinen, Li Liu. "Deep Learning for Scene Classification: A Survey." *arXiv preprint arXiv:2101.10531*, 2021.
 
+- Pengfei Guo, Delu Zeng, Yunbo Tian, Shuangyin Liu, Hantao Liu, and Daoliang Li. "Multi-scale enhancement fusion for underwater sea cucumber images based on human visual system modelling." *Computers and Electronics in Agriculture* 175 (2020): 105608.
 
-# 📖 Educations
- 
+- Qianl Ma, Sen Li, Wanqing Zhuang, Sen Li, Jiabing Wang and Delu Zeng\*. "Self-Supervised Time Series Clustering With Model-Based Dynamics." *IEEE Transactions on Neural Networks and Learning Systems*, doi: [10.1109/TNNLS.2020.3016291](https://doi.org/10.1109/TNNLS.2020.3016291).
 
-# 💬 Invited Talks
+- Xiangrui Xing, Xian Yu, Wenao Ma, Vue Huang, Delu Zeng, Xinghao Ding. "Bindctnet: A Simple Binary Dct Network for Image Classification." *2018 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*.
 
+- Yixuan He, Tianyi Hu, Delu Zeng\*. "Scan-flood Fill (SCAFF): an Efficient Automatic Precise Region Filling Algorithm for Complicated Regions." *Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition Workshops*, 2019.
 
-# 💻 Internships
+- Tao Zheng, Bo Li, Delu Zeng, Zhiheng Zhou. "Delving into the Impact of Saliency Detector: A GeminiNet for Accurate Saliency Detection." *International Conference on Artificial Neural Networks*, 2019.
+
+- Shulian Cai, Jiabin Huang, Jing Chen, Yue Huang, Xinghao Ding, **Delu Zeng\***. "Prominent edge detection with deep metric expression and multi-scale features." *Multimedia Tools and Applications*, 2018. [PDF](https://link.springer.com/article/10.1007/s11042-018-6581-5)
+
+- Shulian Cai, Jiabin Huang, **Delu Zeng\***, Xinghao Ding, John Paisley. "MEnet: A Metric Expression Network for Salient Object Segmentation." *International Joint Conference on Artificial Intelligence (IJCAI)*, 2018, Stockholm, Sweden. [PDF](http://www.columbia.edu/～jwp2128/Papers/CaiHuangZengetal2018.pdf) | [Code/Ref](https://github.com/scutDACIM/MEnet)
+
+- WU Jiawen, LIU Qinting, **Delu Zeng**, Ding Xinghao, Li Lin. "Speech Enhancement Based on Nonparametric Bayesian Method." *Journal of Xiamen University (Natural Science)*, 2017, 56(03): 423–428. [PDF](http://202.38.236.221/e:/images/JXUM0831.jpg)
+
+- Yun Zhang, Juilee Thakara, David J. Topham, Ann R. Falsey, **Delu Zeng**, and Xing Qiu\*. "Certain equivalence relationships of regularized regressions." *Mathematics for Applications*, Nov. 23, 2017 (Accepted). [PDF](http://202.38.236.221/e:/images/JXUM0831.jpg)
+
+- Xin He, **Delu Zeng\***. "Real-time Pedestrian Warning System on Highway using Deep Learning Methods." *ISPACS 2017 - International Symposium on Intelligent Signal Processing and Communication Systems*, Nov. 6–9, 2017 (EI). [PDF](https://ispacs2017.hqu.edu.cn/)
+
+- Shulian Cai, Jiabin Huang, Xinghao Ding and **Delu Zeng\***. "Semantic Edge Detection Based on Deep Metric Learning." *ISPACS 2017*, Nov. 6–9, 2017 (EI). [PDF](https://ispacs2017.hqu.edu.cn/)
+
+- Hong Tang, **Delu Zeng\***, Xin Liu, Jiabin Huang and Yinghao Liao. "Resource Allocation and Optimization Based on Queuing Theory and BP Network." *ICONIP 2017 - The 24th International Conference on Neural Information Processing*, Nov. 14–18, 2017 (EI). [PDF](http://www.iconip2017.org/)
+
+- Jinxuan Tao, Jiabin Huang, Long Yu, Zikang Li, Hongsheng Liu, Bo Yuan, **Delu Zeng**. "A new methodology combining microscopy observation with Artificial Neural Networks for the study of starch gelatinization." *Food Hydrocolloids* 74 (2017): 151–158. (JCR1) [PDF](https://www.sciencedirect.com/science/article/pii/S0268005X17308032)
+
+- X. Fu, J. Huang, **D. Zeng**, Y. Huang, X. Ding, J. Paisley. "Removing rain from single images via a deep detail network." *IEEE Conference on Vision and Pattern Recognition (CVPR)*, Honolulu, HI, USA, 2017. [PDF](http://www.columbia.edu/～jwp2128/Papers/FuHuangetal2017.pdf)
+
+- Lin Li, Jiawen Wu, Xinghao Ding, Qingyang Hong, **Delu Zeng\***. "Speech Enhancement Based on Nonparametric Factor Analysis." *ISCSLP 2016 - The 10th International Symposium on Chinese Spoken Language Processing*, 2016 (EI). [PDF](https://ieeexplore.ieee.org/document/7918427)
+
+- Xiaobo Shi, Yixue Hao, **Delu Zeng\***, Lu Wang, M. Shamim Hossain, Sk Md Mizanur Rahman, Abdulhameed Alelaiwi. "Cloud-Assisted Mood Fatigue Detection System." *Mobile Networks and Applications* 21, no. 5 (2016): 744–752. (SCI) [PDF](https://link.springer.com/article/10.1007/s11036-016-0757-x)
+
+- **Delu Zeng**, Yuwen Hu, Yue Huang, Zhiliang Xu, Xinghao Ding. "Pan-sharpening with structural consistency and l_1/2 gradient prior." *Remote Sensing Letters* 7, no. 12 (2016): 1170–1179. (SCI, JCR3) [PDF](https://www.tandfonline.com/doi/abs/10.1080/2150704X.2016.1222098) | [Code](http://smartdsp.xmu.edu.cn/)
+
+- Xinghao Ding, Liqin Chen, Yue Huang, **Delu Zeng\***. "Single image rain and snow removal via guided L0 smoothing filter." *Multimedia Tools and Applications* 75, no. 5 (2016): 2697–2712. (SCI) [PDF](https://link.springer.com/article/10.1007/s11042-015-2657-7)
+
+- Xueyang Fu, **Delu Zeng**, Yue Huang, Yinghao Liao, Xinghao Ding\*, and John Paisley. "A Fusion-based Enhancing Method for Weakly Illuminated Images." *Signal Processing* 129 (2016): 82–96. [PDF](http://smartdsp.xmu.edu.cn/memberpdf/fuxueyang/SP2016.pdf)
+
+- Peixian Zhuang, Xueyang Fu, Yue Huang, **Delu Zeng**, and Xinghao Ding. "A Novel Framework Method for Non-Blind Deconvolution Using Subspace Images Priors." *Signal Processing: Image Communication* 46 (2016): 17–28. (SCI, JCR3) [PDF](http://smartdsp.xmu.edu.cn/memberpdf/fuxueyang/SPIC2016.pdf)
+
+- Xueyang Fu, **Delu Zeng**, Yue Huang, Xiao-ping Zhang and Xinghao Ding. "A weighted variational model for simultaneous reflectance and illumination estimation." *IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2016)*, Las Vegas, US, 2016. [Abstract/Code](http://smartdsp.xmu.edu.cn/cvpr2016.html)
+
+- Tong Zhao, Lin Li, Xinghao Ding, Yue Huang, and **Delu Zeng\***. "Saliency detection with spaces of background-based distribution." *IEEE Signal Processing Letters* 23, no. 5 (2016): 683–687. [PDF](https://ieeexplore.ieee.org/document/7438788) | [Abstract/Code](http://smartdsp.xmu.edu.cn/SPL2016.html)
+
+- Yiyong Jiang, Xinghao Ding, **Delu Zeng**, Yue Huang and John Paisley. "Pan-sharpening with a hyper-Laplacian penalty." *International Conference on Computer Vision (ICCV 2015)*, Santiago, Chile, 2015. [PDF](https://www.cv-foundation.org/openaccess/content_iccv_2015/html/Jiang_Pan-Sharpening_With_a_ICCV_2015_paper.html)
+
+- Xueyang Fu, J. Wang, **Delu Zeng**, Yue Huang, Xinghao Ding. "Remote Sensing Image Enhancement using Regularized-Histogram Equalization and DCT." *IEEE Geoscience and Remote Sensing Letters* 12, no. 11 (2015): 2301–2305. [PDF](http://smartdsp.xmu.edu.cn/memberpdf/fuxueyang/GRSL2015.pdf)
+
+- Xueyang Fu, Yinghao Liao, **Delu Zeng**, Yue Huang, Xiao-ping Zhang and Xinghao Ding. "A Probabilistic Method for Image Enhancement with Simultaneous Illumination and Reflectance Estimation." *IEEE Transactions on Image Processing* 24, no. 12 (2015): 4965–4977. [PDF](http://smartdsp.xmu.edu.cn/memberpdf/fuxueyang/TIP2015.pdf)
+
+- **Delu Zeng**, Zhiheng Zhou, Shengli Xie. "Image Segmentation based on the Poincare Map Method." *IEEE Transactions on Image Processing* 21, no. 3 (2012): 946–957. [PDF](http://smartdsp.xmu.edu.cn/memberpdf/zeng/2012TIP.pdf)
+
+- Tong Zhao, Jiawen Wu, Lin Li, **Delu Zeng\***, Zhaoshui He. "Semi-supervised shape classification based on low rank constraint active contour." *International Conference on Mechatronics and Control (ICMC)*, Jinzhou, 2014, pp. 1069–1073. [PDF](https://ieeexplore.ieee.org/document/7231717)
+
+- **Delu Zeng**, Zhiheng Zhou, et al. "Coarse-to-fine Boundary Location with a SOM-like Method." *IEEE Transactions on Neural Networks* 21, no. 3 (2010): 481–493. [PDF](http://smartdsp.xmu.edu.cn/memberpdf/zeng/2010TNN.pdf)
+
+- Shengli Xie, **Delu Zeng\***, Zhiheng Zhou. "Arranging and Interpolating Sparse Unorganized Feature Points With Geodesic Circular Arc." *IEEE Transactions on Image Processing* 18, no. 3 (2009): 582–595. [PDF](http://smartdsp.xmu.edu.cn/memberpdf/zeng/2009TIP.pdf)
+
+- Weijun Liu, Jianzhong Lin, Congbo Cai, **Delu Zeng**, and Xinghao Ding. "Fast magnetic susceptibility reconstruction using L0 norm of gradient." *IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, South Brisbane, QLD, 2015, pp. 907–911. [PDF](https://ieeexplore.ieee.org/document/7178101)
+
+- Yue Huang, Xin Chen, Jun Zhang, **Delu Zeng**, Dandan Zhang, Xinghao Ding. "Single-trial ERPs denoising via collaborative filtering on ERPs images." *Neurocomputing* 174, Part B (2016): 858–865. [PDF](https://www.sciencedirect.com/science/article/abs/pii/S0925231214009801)
+
+- Peixian Zhuang, Yue Huang, **Delu Zeng**, Xinghao Ding. "Mixed noise removal based on a novel non-parametric Bayesian sparse outlier model." *Neurocomputing* 174, Part B (2016): 858–865. [PDF](https://www.sciencedirect.com/science/article/abs/pii/S0925231215014496)
+
+- Xueyang Fu, Yue Huang, **Delu Zeng**, Xinghao Ding and Xiao-Ping Zhang. "A fusion-based enhancing approach for single sandstorm image." *IEEE International Workshop on Multimedia Signal Processing (MMSP)*, 2014. [PDF](http://smartdsp.xmu.edu.cn/memberpdf/fuxueyang/2.pdf) | [Matlab code](http://smartdsp.xmu.edu.cn/memberpdf/fuxueyang/MMSP_code.zip)
+
+- Xueyang Fu, **Delu Zeng**, Yue Huang, Xinghao Ding and Xiao-Ping Zhang. "A variational framework for single low light image enhancement using bright channel prior." *IEEE Global Conference on Signal and Information Processing (GlobalSIP)*, 2013. [PDF](http://smartdsp.xmu.edu.cn/memberpdf/fuxueyang/5.pdf) | [Matlab code](http://smartdsp.xmu.edu.cn/memberpdf/fuxueyang/GlobalSIP_code.zip)
+
+- Xueyang Fu, Qin Lin, Wei Guo, Yue Huang, **Delu Zeng**, and Xinghao Ding. "A novel Retinex algorithm based on alternating direction optimization." *Sixth International Symposium on Precision Mechanical Measurements*, SPIE, 2013. [PDF](http://smartdsp.xmu.edu.cn/memberpdf/fuxueyang/6.pdf)
+
+- **Delu Zeng**, Zhiheng Zhou, Shengli Xie. "Vector bundle constraint for particle swarm optimization and its application to active contour modeling." *Progress in Natural Science* 17, no. 10 (2007): 1220–1225. [PDF](http://d.wanfangdata.com.cn/periodical/zrkxjz-e200710015)
+
+- **Delu Zeng**, Zhiheng Zhou, Shengli Xie. "Construction of Compact RBF Network by Refining Coarse Clusters and Widths." *Journal of Systems Engineering and Electronics* 20, no. 6 (2009): 1309–1315. [PDF](https://ieeexplore.ieee.org/document/6074585)
+
+- **Delu Zeng**, Shengli Xie, Zhiheng Zhou. "Improved clustering and anisotropic gradient descent algorithm for compact RBF network." *ICONIP 2006*, Lecture Notes in Computer Science, vol. 4233, pp. 806–813. [PDF](http://smartdsp.xmu.edu.cn/memberpdf/zeng/ICONIP06.pdf)
+
+- **Delu Zeng**, Zhiheng Zhou, et al. "Fast blocking artifacts reduction algorithm based on contrast enhancement technique." *International Conference on Communications, Circuits and Systems (ICCCS)*, vol. I, pp. 497–499, 2006. [PDF](https://www.infona.pl/resource/bwmeta1.element.ieee-art-000004063929)
+
+## 科研项目
+
+- **国家自然科学基金面上项目**，基于PDE的鲁棒视觉显著性目标感知先验的图像分割（61571005），2016/01–2019/12，主持。（备注：信息与数学领域交叉类项目）
+- **国家自然科学基金青年项目**，目标检测与提取变分模型的关键问题研究（61103121），2012/01–2014/12，主持。
+- **国家自然科学基金项目**，目标分割中的视觉显著先验的同质性描述（61811530271），在研，主持。
+- **中央高校基本科研业务费**，基于统计先验和变分框架下的图像去雾霾方法研究，在研，主持，2018.09–2020.08。
+- **广州市产业技术重大攻关计划现代产业技术专题项目**，基于深度学习的企业大脑关键技术研发与产业化，2017/09–2020/10，60/400万，单位内主持（企业联合申报）。
+- **广州市科技计划一般项目**，图像去雨雾问题的大数据与深度架构逆问题建模，2018/04–2021/03，主持。
+- **厦门大学校长基金**，结合贝叶斯框架的偏微分方程图像目标分割鲁棒性方法（20720150093），2015/01–2016/12，主持。
+- **中国博士后基金**，变分法图像分割有效实现的几个关键问题研究（20100470923），2010/02–2012/02，主持。
+- **国家自然科学基金青年项目**，变结构向量场下活动轮廓模型的研究（61003170），2011/01–2013/12，第一参与。
+
+## 教学活动
+
+- 机器智能与大数据分析（研究生选修）
+- 深度架构逼近与变分推断（博士生选修）
+- 最优化理论与应用（研究生选修）
+- 数值计算方法（研究生选修）
+- 工程数学与建模（本科生必修，涵盖数学物理方程，复变函数，傅立叶分析）
+- 微积分（本科生公共课）
+- 医用高等数学（本科生公共课）
+- 信息论与编码（本科生专业必修课）
+- 数理金融（本科生专业选修课）
+- 计算机软件技术基础（本科生必修）
+- 数字图像处理（本科生与研究生必修通选课）
+- 国际数学建模（ACM／ICM）教练
   - 
