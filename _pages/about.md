@@ -62,7 +62,6 @@ redirect_from:
 - *2024.06*: Our paper "**DeepAR-Attention probabilistic prediction for stock price series**" is accepted to **Neural Computing and Applications**.
 - *2024.06*: Our paper "**Neural ordinary differential equation networks for fintech applications using Internet of Things**" is accepted to **IEEE Internet of Things Journal (IoTJ)**.
 - *2024.02*: Our paper "**Sparse variational student-t processes**" is accepted to **AAAI 2024**.
-- *2022.02*: Our paper "**To-Flow: Efficient Continuous Normalizing Flows with Temporal Optimization Adjoint with Moving Speed**" is accepted to **CVPR 2022**.
 
 # 发表论文
 ## Deep Generative Modeling
