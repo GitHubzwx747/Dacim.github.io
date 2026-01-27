@@ -266,7 +266,7 @@ redirect_from:
 
 - Shulian Cai, Jiabin Huang, Jing Chen, Yue Huang, Xinghao Ding, **Delu Zeng\***. "Prominent edge detection with deep metric expression and multi-scale features." *Multimedia Tools and Applications*, 2018. [PDF](https://link.springer.com/article/10.1007/s11042-018-6581-5)
 
-- Shulian Cai, Jiabin Huang, **Delu Zeng\***, Xinghao Ding, John Paisley. "MEnet: A Metric Expression Network for Salient Object Segmentation." *International Joint Conference on Artificial Intelligence (IJCAI)*, 2018, Stockholm, Sweden. [PDF](http://www.columbia.edu/～jwp2128/Papers/CaiHuangZengetal2018.pdf) | [Code/Ref](https://github.com/scutDACIM/MEnet)
+- Shulian Cai, Jiabin Huang, **Delu Zeng\***, Xinghao Ding, John Paisley. "MEnet: A Metric Expression Network for Salient Object Segmentation." *International Joint Conference on Artificial Intelligence (IJCAI)*, 2018, Stockholm, Sweden. [PDF](http://www.columbia.edu/～jwp2128/Papers/CaiHuangZengetal2018.pdf) 
 
 - WU Jiawen, LIU Qinting, **Delu Zeng**, Ding Xinghao, Li Lin. "Speech Enhancement Based on Nonparametric Bayesian Method." *Journal of Xiamen University (Natural Science)*, 2017, 56(03): 423–428. [PDF](http://202.38.236.221/e:/images/JXUM0831.jpg)
 
