@@ -286,7 +286,7 @@ redirect_from:
 
 - Xiaobo Shi, Yixue Hao, **Delu Zeng\***, Lu Wang, M. Shamim Hossain, Sk Md Mizanur Rahman, Abdulhameed Alelaiwi. "Cloud-Assisted Mood Fatigue Detection System." *Mobile Networks and Applications* 21, no. 5 (2016): 744–752. (SCI) [PDF](https://link.springer.com/article/10.1007/s11036-016-0757-x)
 
-- **Delu Zeng**, Yuwen Hu, Yue Huang, Zhiliang Xu, Xinghao Ding. "Pan-sharpening with structural consistency and l_1/2 gradient prior." *Remote Sensing Letters* 7, no. 12 (2016): 1170–1179. (SCI, JCR3) [PDF](https://www.tandfonline.com/doi/abs/10.1080/2150704X.2016.1222098) | [Code](http://smartdsp.xmu.edu.cn/)
+- **Delu Zeng**, Yuwen Hu, Yue Huang, Zhiliang Xu, Xinghao Ding. "Pan-sharpening with structural consistency and l_1/2 gradient prior." *Remote Sensing Letters* 7, no. 12 (2016): 1170–1179. (SCI, JCR3) [PDF](https://www.tandfonline.com/doi/abs/10.1080/2150704X.2016.1222098)
 
 - Xinghao Ding, Liqin Chen, Yue Huang, **Delu Zeng\***. "Single image rain and snow removal via guided L0 smoothing filter." *Multimedia Tools and Applications* 75, no. 5 (2016): 2697–2712. (SCI) [PDF](https://link.springer.com/article/10.1007/s11042-015-2657-7)
 
@@ -294,9 +294,9 @@ redirect_from:
 
 - Peixian Zhuang, Xueyang Fu, Yue Huang, **Delu Zeng**, and Xinghao Ding. "A Novel Framework Method for Non-Blind Deconvolution Using Subspace Images Priors." *Signal Processing: Image Communication* 46 (2016): 17–28. (SCI, JCR3) [PDF](http://smartdsp.xmu.edu.cn/memberpdf/fuxueyang/SPIC2016.pdf)
 
-- Xueyang Fu, **Delu Zeng**, Yue Huang, Xiao-ping Zhang and Xinghao Ding. "A weighted variational model for simultaneous reflectance and illumination estimation." *IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2016)*, Las Vegas, US, 2016. [Abstract/Code](http://smartdsp.xmu.edu.cn/cvpr2016.html)
+- Xueyang Fu, **Delu Zeng**, Yue Huang, Xiao-ping Zhang and Xinghao Ding. "A weighted variational model for simultaneous reflectance and illumination estimation." *IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2016)*, Las Vegas, US, 2016. (http://smartdsp.xmu.edu.cn/cvpr2016.html)
 
-- Tong Zhao, Lin Li, Xinghao Ding, Yue Huang, and **Delu Zeng\***. "Saliency detection with spaces of background-based distribution." *IEEE Signal Processing Letters* 23, no. 5 (2016): 683–687. [PDF](https://ieeexplore.ieee.org/document/7438788) | [Abstract/Code](http://smartdsp.xmu.edu.cn/SPL2016.html)
+- Tong Zhao, Lin Li, Xinghao Ding, Yue Huang, and **Delu Zeng\***. "Saliency detection with spaces of background-based distribution." *IEEE Signal Processing Letters* 23, no. 5 (2016): 683–687. [PDF](https://ieeexplore.ieee.org/document/7438788) (http://smartdsp.xmu.edu.cn/SPL2016.html)
 
 - Yiyong Jiang, Xinghao Ding, **Delu Zeng**, Yue Huang and John Paisley. "Pan-sharpening with a hyper-Laplacian penalty." *International Conference on Computer Vision (ICCV 2015)*, Santiago, Chile, 2015. [PDF](https://www.cv-foundation.org/openaccess/content_iccv_2015/html/Jiang_Pan-Sharpening_With_a_ICCV_2015_paper.html)
 
@@ -318,9 +318,9 @@ redirect_from:
 
 - Peixian Zhuang, Yue Huang, **Delu Zeng**, Xinghao Ding. "Mixed noise removal based on a novel non-parametric Bayesian sparse outlier model." *Neurocomputing* 174, Part B (2016): 858–865. [PDF](https://www.sciencedirect.com/science/article/abs/pii/S0925231215014496)
 
-- Xueyang Fu, Yue Huang, **Delu Zeng**, Xinghao Ding and Xiao-Ping Zhang. "A fusion-based enhancing approach for single sandstorm image." *IEEE International Workshop on Multimedia Signal Processing (MMSP)*, 2014. [PDF](http://smartdsp.xmu.edu.cn/memberpdf/fuxueyang/2.pdf) | [Matlab code](http://smartdsp.xmu.edu.cn/memberpdf/fuxueyang/MMSP_code.zip)
+- Xueyang Fu, Yue Huang, **Delu Zeng**, Xinghao Ding and Xiao-Ping Zhang. "A fusion-based enhancing approach for single sandstorm image." *IEEE International Workshop on Multimedia Signal Processing (MMSP)*, 2014. [PDF](http://smartdsp.xmu.edu.cn/memberpdf/fuxueyang/2.pdf)
 
-- Xueyang Fu, **Delu Zeng**, Yue Huang, Xinghao Ding and Xiao-Ping Zhang. "A variational framework for single low light image enhancement using bright channel prior." *IEEE Global Conference on Signal and Information Processing (GlobalSIP)*, 2013. [PDF](http://smartdsp.xmu.edu.cn/memberpdf/fuxueyang/5.pdf) | [Matlab code](http://smartdsp.xmu.edu.cn/memberpdf/fuxueyang/GlobalSIP_code.zip)
+- Xueyang Fu, **Delu Zeng**, Yue Huang, Xinghao Ding and Xiao-Ping Zhang. "A variational framework for single low light image enhancement using bright channel prior." *IEEE Global Conference on Signal and Information Processing (GlobalSIP)*, 2013. [PDF](http://smartdsp.xmu.edu.cn/memberpdf/fuxueyang/5.pdf) 
 
 - Xueyang Fu, Qin Lin, Wei Guo, Yue Huang, **Delu Zeng**, and Xinghao Ding. "A novel Retinex algorithm based on alternating direction optimization." *Sixth International Symposium on Precision Mechanical Measurements*, SPIE, 2013. [PDF](http://smartdsp.xmu.edu.cn/memberpdf/fuxueyang/6.pdf)
 
