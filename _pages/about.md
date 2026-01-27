@@ -53,15 +53,17 @@ redirect_from:
 - *2025.10*: Our paper "**Integrating Ordinary Differential Equations with Sparse Attention for Power Load Forecasting**" is accepted to **IEEE Transactions on Instrumentation and Measurement (TIM)**.
 - *2025.09*: Our paper "**EVODiff: Entropy-aware Variance Optimized Diffusion Inference**" is accepted to **NeurIPS 2025**.
 - *2025.09*: Our paper "**Entropy-informed weighting channel normalizing flow for deep generative models**" is accepted to **Pattern Recognition (PR)**.
-- *2025.09*: Our paper "**Fully Bayesian Differential Gaussian Processes through Stochastic Differential Equations**" is accepted to **Knowledge-Based Systems**.
 - *2025.08*: Our paper "**ReciprocalLA-LLIE: Low-light image enhancement with luminance-aware reciprocal diffusion process**" is accepted to **Neurocomputing**.
-- *2025.07*: Our paper "**Bayesian Gaussian Process ODEs via Double Normalizing Flows**" is accepted to **AISTATS 2025**.
 - *2025.05*: Our paper "**Dequantified Diffusion-Schrödinger Bridge for Density Ratio Estimation**" is accepted to **ICML 2025**.
-- *2024.10*: Our paper "**Neural Operator Variational Inference based on Regularized Stein Discrepancy for Deep Gaussian Processes**" is accepted to **IEEE Transactions on Neural Networks and Learning Systems (TNNLS)**.
+- *2025.05*: Our paper "**Variational Learning of Gaussian Process Latent Variable Models through Stochastic Gradient Annealed Importance Sampling**" is accepted to **UAI 2025**.
+- *2025.02*: Our paper "**Fully Bayesian Differential Gaussian Processes through Stochastic Differential Equations**" is accepted to **Knowledge-Based Systems**.
+- *2025.01*: Our paper "**Bayesian Gaussian Process ODEs via Double Normalizing Flows**" is accepted to **AISTATS 2025**.
 - *2024.06*: Our paper "**Sparse Inducing Points in Deep Gaussian Processes: Enhancing Modeling with Denoising Diffusion Variational Inference**" is accepted to **ICML 2024**.
 - *2024.06*: Our paper "**DeepAR-Attention probabilistic prediction for stock price series**" is accepted to **Neural Computing and Applications**.
 - *2024.06*: Our paper "**Neural ordinary differential equation networks for fintech applications using Internet of Things**" is accepted to **IEEE Internet of Things Journal (IoTJ)**.
 - *2023.12*: Our paper "**Sparse variational student-t processes**" is accepted to **AAAI 2024**.
+- *2023.09*: Our paper "**Neural Operator Variational Inference based on Regularized Stein Discrepancy for Deep Gaussian Processes**" is accepted to **IEEE Transactions on Neural Networks and Learning Systems (TNNLS)**.
+- *2022.02*: Our paper about "**efficient continuous normalizing flow**" is accepted to **CVPR 2022**. 
 
 # 发表论文
 ## Deep Generative Modeling
