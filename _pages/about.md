@@ -76,7 +76,6 @@ redirect_from:
 # 🔥 News
 - *2026.1*: Our paper about *Diffusion Bridge Variational Inference for Deep Gaussian Processes* is accepted to International Conference on Learning Representations (ICLR).
 - *2026.1*: Our paper about *Don't Forget Its Variance! The Minimum Path Variance Principle for Accurate and Stable Score-Based Density Ratio* is accepted to  International Conference on Learning Representations (ICLR).
-- *2026.1*: Our paper about *Don't Forget Its Variance! The Minimum Path Variance Principle for Accurate and Stable Score-Based Density Ratio* is accepted to  International Conference on Learning Representations (ICSSP).
 - *2025.10*: Our paper about *diffusion informer for time series modeling* is accepted to Expert Systems With Applications (ESWA).
 - *2025.10*: Our paper about *wavelet diffusion for time series modeling* is accepted to IEEE TIM.
 - *2025.09*: Our paper about *diffusion modeling acceleration* is accepted to NeurIPS 2025.
