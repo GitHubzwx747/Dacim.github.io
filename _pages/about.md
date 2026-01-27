@@ -59,9 +59,9 @@ redirect_from:
 - *2025.05*: Our paper "**Dequantified Diffusion-Schrödinger Bridge for Density Ratio Estimation**" is accepted to **ICML 2025**.
 - *2024.10*: Our paper "**Neural Operator Variational Inference based on Regularized Stein Discrepancy for Deep Gaussian Processes**" is accepted to **IEEE Transactions on Neural Networks and Learning Systems (TNNLS)**.
 - *2024.06*: Our paper "**Sparse Inducing Points in Deep Gaussian Processes: Enhancing Modeling with Denoising Diffusion Variational Inference**" is accepted to **ICML 2024**.
-- *2024.02*: Our paper "**Sparse variational student-t processes**" is accepted to **AAAI 2024**.
 - *2024.06*: Our paper "**DeepAR-Attention probabilistic prediction for stock price series**" is accepted to **Neural Computing and Applications**.
 - *2024.06*: Our paper "**Neural ordinary differential equation networks for fintech applications using Internet of Things**" is accepted to **IEEE Internet of Things Journal (IoTJ)**.
+- *2024.02*: Our paper "**Sparse variational student-t processes**" is accepted to **AAAI 2024**.
 - *2022.02*: Our paper "**To-Flow: Efficient Continuous Normalizing Flows with Temporal Optimization Adjoint with Moving Speed**" is accepted to **CVPR 2022**.
 
 # 发表论文
